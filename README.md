@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**gautierdag/gautierdag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a Machine Learning Engineer at [Mansa](https://www.getmansa.com)
 
-Here are some ideas to get you started:
+- 📚 Previously I did a Masters in Artificial Intelligence at the University of Amsterdam 🇳🇱🌷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏈 During my Bachelors at Northwestern University, I co-founded the college football startup: [Zcruit](https://www.zcruit.com)
+
+- 🌱 I’m currently learning for the AWS Machine Learning Certification, and just completed the Solutions Architect Associates Certificate.
+
+- 💬 Ask me about Natural Language Processing, Scraping, Meta-learning, or any AI related topics!
+
+- 😄 Pronouns: he/him/his
+
+- 😍 Favorite Open-Source projects: 
+    - [FastApi](https://github.com/tiangolo/fastapi) ⚡ : My go-to whenever needing an API solution on a server with python
+  
+    - [Pytorch](https://github.com/pytorch/pytorch) 🔥 : Personal favorite DL library but I admit I have been tempted by JAX 😅
+  
+    - [HuggingFace](https://github.com/huggingface) 🤗 : I'm following closely their `transformer` and `tokenizer` libraries as they continue to revolutionise NLP research
+    
+    - [Spacy](https://github.com/explosion/spaCy) 🛰 : Go-to NLP library whenever you need to go simpler than DL, which is most times..
+   
+    - [Pandas](https://github.com/pandas-dev/pandas) 🐼 : What else? ☕️
+    
+    - [Pydantic](https://github.com/samuelcolvin/pydantic) ✅ : `Everything.parse_raw(EverythingRaw)`
