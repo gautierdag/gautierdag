@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Machine Learning Engineer at [Mansa](https://www.getmansa.com)
+- 📈 Working on founding a start up @ Entrepreuneur First 
 
-- 📚 Previously I did a Masters in Artificial Intelligence at the University of Amsterdam 🇳🇱🌷
+- 🔭 Previously, a Machine Learning Engineer at [Mansa](https://www.getmansa.com)
+
+- 📚 Previously, I did a Masters in Artificial Intelligence at the University of Amsterdam 🇳🇱🌷
 
 - 🏈 During my Bachelors at Northwestern University, I co-founded the college football startup: [Zcruit](https://www.zcruit.com)
 
-- 🌱 I’m currently learning for the AWS Machine Learning Certification, and just completed the Solutions Architect Associates Certificate.
+- 🌱 I’m currently learning `vim`
+
+- 🔖 AWS Machine Learning and AWS Solutions Architect Associates Certified
 
 - 💬 Ask me about Natural Language Processing, Scraping, Meta-learning, or any AI related topics!
 
