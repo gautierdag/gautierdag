@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📈 Working on founding a start up @ Entrepreuneur First 
+- 📈 Working on founding a start up @ Entrepreneur First
 
 - 🔭 Previously, a Machine Learning Engineer at [Mansa](https://www.getmansa.com)
 
