@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-- 📈 Working on founding a start up @ Entrepreneur First
+- 📈 Currently:
+    - Incoming Natural Language Processing PhD student at the University of Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+    - Part-time Senior MLE at [RGrid](https://rgrid.tech/)
 
-- 🔭 Previously, a Machine Learning Engineer at [Mansa](https://www.getmansa.com)
+- 🔭 Previously: 
+    - LD15 Entrepreneur First Cohort
+    - First Employee and Machine Learning Engineer at [Mansa](https://www.getmansa.com)
 
-- 📚 Previously, I did a Masters in Artificial Intelligence at the University of Amsterdam 🇳🇱🌷
+- 📚 Masters in Artificial Intelligence at the University of Amsterdam 🇳🇱🌷
 
 - 🏈 During my Bachelors at Northwestern University, I co-founded the college football startup: [Zcruit](https://www.zcruit.com)
 
