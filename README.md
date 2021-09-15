@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 📈 Currently:
-    - Incoming Natural Language Processing PhD student at the University of Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-    - Part-time Senior MLE at [RGrid](https://rgrid.tech/)
+    - Natural Language Processing PhD student at the University of Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 - 🔭 Previously: 
+    - Part-time Senior MLE at [RGrid](https://rgrid.tech/)
     - LD15 Entrepreneur First Cohort
     - First Employee and Machine Learning Engineer at [Mansa](https://www.getmansa.com)
 
@@ -12,7 +12,7 @@
 
 - 🏈 During my Bachelors at Northwestern University, I co-founded the college football startup: [Zcruit](https://www.zcruit.com)
 
-- 🌱 I’m currently learning `vim`
+- 🌱 I’m currently learning `pragmatics`
 
 - 🔖 AWS Machine Learning and AWS Solutions Architect Associates Certified
 
